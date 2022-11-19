@@ -4,5 +4,10 @@
 ## Descrição do repositório
 Este repositório contém os códigos que foram desenvolvidos nos meus estudos sobre typescript, espero que estes códigos exclareçam dúvidas e auxilie a todos.
 
+## Instalação de dependências
+```
+$ npm install
+```
+
 ## Linguagens utilizadas
 - `Typescript`
